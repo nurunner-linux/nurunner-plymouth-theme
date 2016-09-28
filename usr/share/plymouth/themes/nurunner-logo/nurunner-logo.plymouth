@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=nurunner-logo
+Description=Nurunner Plymouth theme.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/nurunner-logo
+ScriptFile=/lib/plymouth/themes/nurunner-logo/nurunner-logo.script

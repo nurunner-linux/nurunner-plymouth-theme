@@ -1,8 +1,10 @@
 [Plymouth Theme]
 Name=nurunner-logo
 Description=Nurunner Plymouth theme.
-ModuleName=script
+ModuleName=two-step
 
-[script]
-ImageDir=/lib/plymouth/themes/nurunner-logo
-ScriptFile=/lib/plymouth/themes/nurunner-logo/nurunner-logo.script
+[two-step]
+ImageDir=/usr/share/plymouth/themes/nurunner-logo
+BackgroundStartColor=0x232323
+BackgroundEndColor=0x232323
+ShowAnimationPercent=0
